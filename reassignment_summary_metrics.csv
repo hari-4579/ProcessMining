@@ -1,0 +1,9 @@
+Metric,Value
+Total Cases,46601.0
+Average Duration (Hours),123.11834029551106
+Cases with Reassignments (%),86.66552219909444
+Average Reassignments per Case,5.158837793180404
+Correlation (Reassignments vs Duration),0.35739258102414134
+High Reassignment Cases (%),11.868844016222829
+Duration Increase from Reassignments (Hours),426.6514721172702
+Duration Increase (%),1214.9383210607402
